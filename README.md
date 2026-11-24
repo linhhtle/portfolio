@@ -1,16 +1,12 @@
-## Hi there 👋
+# Linh Le
 
-<!--
-**linhhtle/linhhtle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Boston University Questrom MS in Business Analytics candidate with a background in chemistry. My portfolio focuses on healthcare analytics, clinical informatics, and life sciences analytics. I use SQL, Python, BigQuery, and PySpark to prepare data, evaluate models, and communicate findings.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | What it examines |
+| --- | --- |
+| [CKD readmission](https://github.com/linhhtle/ckd-readmission) | Predicting 30-day readmission and evaluating the trade-off between recall and precision |
+| [Medicare Part D spending](https://github.com/linhhtle/medicare-part-d-spending) | Comparing prescription spending and cost per claim across specialties |
+| [Hospital mortality risk](https://github.com/linhhtle/hospital-mortality-risk) | Comparing logistic regression and random forest on retrospective admission data |
+| [Texas Marketplace affordability](https://github.com/linhhtle/texas-marketplace-affordability) | Using CMS rates and benefits data to examine historical plan affordability |
+| [U.S. healthcare access](https://github.com/linhhtle/us-healthcare-access) | Combining state-level health, hospital, and nursing home data |
+| [E-commerce bestseller prediction](https://github.com/linhhtle/ecommerce-bestseller-prediction) | Exploring whether early sales momentum can identify future bestsellers |
