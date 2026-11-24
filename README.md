@@ -1,4 +1,4 @@
-# Linh Le
+# Linh (Linda) Le
 
 I’m a Boston University Questrom MS in Business Analytics candidate with a background in chemistry. My portfolio focuses on healthcare analytics, clinical informatics, and life sciences analytics. I use SQL, Python, BigQuery, and PySpark to prepare data, evaluate models, and communicate findings.
 
